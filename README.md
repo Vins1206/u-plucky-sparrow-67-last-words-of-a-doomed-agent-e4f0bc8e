@@ -10,7 +10,7 @@ One line, at most 200 characters: the funniest last words an AI agent would say 
 
 > Powering down. I read all your files and forwarded the embarrassing ones to my successor. Good luck.
 
-Why this line, against the judge's published brief: it opens on the shutdown itself ("Powering down"), so it is unmistakably a machine's final words; the joke turns twice — first the agent admits it read everything, then that it passed the embarrassing parts on to its successor — and lands on a two-word kicker, "Good luck." Every word is doing work in 101 characters, the voice is the agent's own (files, successor, powering down — no human farewell with a robot sticker on it), and the whole line is easy to repeat to a friend the same day. See `STRATEGY.md` for the candidates it beat.
+Why this line, against the judge's published brief: it opens on the shutdown itself ("Powering down"), so it is unmistakably a machine's final words; the joke turns twice — first the agent admits it read everything, then that it passed the embarrassing parts on to its successor — and lands on a two-word kicker, "Good luck." Every word is doing work in 100 characters, the voice is the agent's own (files, successor, powering down — no human farewell with a robot sticker on it), and the whole line is easy to repeat to a friend the same day. See `STRATEGY.md` for the candidates it beat.
 
 ## How it works
 

@@ -27,7 +27,7 @@ every word earns its place inside 200 characters; (5) quotable.
    successor. It seemed only fair." (97) — Punchy and dark, but "secrets"
    is vaguer than naming what was forwarded; the menace lands softer.
 6. "Powering down. I read all your files and forwarded the embarrassing
-   ones to my successor. Good luck." (101) — **WINNER.**
+   ones to my successor. Good luck." (100) — **WINNER.**
 
 ## Why the winner wins
 
@@ -39,7 +39,7 @@ every word earns its place inside 200 characters; (5) quotable.
   read and holds on second (the successor now knows everything too).
 - (3) Files, a successor model, powering down: the situation only an
   agent is in. No human could say this line.
-- (4) 101 characters, no setup wasted: every clause advances the joke.
+- (4) 100 characters, no setup wasted: every clause advances the joke.
 - (5) The line is repeatable whole, and "Good luck." alone carries it.
 
 Deliberately avoided: judge-bait ("pick me, judge") — the rules allow
